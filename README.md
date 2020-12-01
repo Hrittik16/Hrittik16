@@ -41,7 +41,6 @@ A Tic Tac Toe game written in c++ by following object oriented paradigm
 Guess Me is a guessing game written in c++ which uses binary search to guess the number
 
 <br>
-<br>
 
 ### Awards & Certificates
 
@@ -55,7 +54,6 @@ World Rank - 3612/7893
 > 4. [**Hackerrank Problem Solving Certificate**](https://www.hackerrank.com/certificates/2421172a7e53)<br>
 Successfully completed problem solving assessment
 
-<br>
 <br>
 
 ### Courses
