@@ -55,5 +55,6 @@ Successfully completed problem solving assessment
 ### Courses
 
 > 1. **Programming in C and C++**
-> 2. **Mathematics for Computer Science**
-> 3. **Introduction to Algorithms**
+> 2. **Introduction to Programming in Python**
+> 3. **Software Testing**
+> 4. **Web Programming in HTML, CSS and Javascript**
