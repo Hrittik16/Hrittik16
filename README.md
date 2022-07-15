@@ -1,7 +1,7 @@
 ### Hi, I'm Hrittik :boy:
 
-## I'm a Full Stack Web Developer, Copywriter and Algorithms Enthusiast
-- :computer: I'm currently learning React Js
+## I love video games, scripting and algorithms
+- :computer: I'm currently learning Javascript and Python
 - :calling: I'm looking for internship opportunities
 - :calendar: I love to work on side projects and participate in hackathons and coding competitions
 - :zap: Fun Fact: I can solve a 3X3 Rubik's cube within 1 minute
@@ -20,10 +20,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
