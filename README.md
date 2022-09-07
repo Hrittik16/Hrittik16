@@ -43,9 +43,7 @@ Guess Me is a guessing game written in c++ which uses binary search to guess the
 29th Position out of 100+ teams
 > 2. [**Google Kickstart 2018 Round H**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050e00)<br>
 World Rank - 1713
-> 3. [**Codechef Snackdown 2019 round 1B**](https://www.codechef.com/certificates/public/cd6414a)<br>
-World Rank - 3612/7893
-> 4. [**Hackerrank Problem Solving Certificate**](https://www.hackerrank.com/certificates/2421172a7e53)<br>
+> 3. [**Hackerrank Problem Solving Certificate**](https://www.hackerrank.com/certificates/2421172a7e53)<br>
 Successfully completed problem solving assessment
 
 <br>
