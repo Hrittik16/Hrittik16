@@ -2,15 +2,14 @@
 
 ## I love video games, scripting and algorithms
 - :computer: I'm currently learning Javascript and Python
-- :calling: I'm looking for internship opportunities
 - :calendar: I love to work on side projects and participate in hackathons and coding competitions
 - :zap: Fun Fact: I can solve a 3X3 Rubik's cube within 1 minute
 
 ### Connect with me:
 
 [<img align="left" alt="Hrittik16 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Hrittik16)
-[<img align="left" alt="Hrittik16 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Hrittik166)
-[<img align="left" alt="Hrittik16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hrittik166/)
+[<img align="left" alt="Hrittik16 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Nikaru16)
+[<img align="left" alt="Hrittik16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nikaru16/)
 
 <br>
 
@@ -29,10 +28,10 @@
 
 ### Projects
 
-> 1. [**Saas-Demo**](https://github.com/Hrittik16/Saas-Demo)<br>
-This is a demo saas website that I am building using HTML and CSS by following a tutorial from the youtube channel Traversy Media. You can check out the live website [here](https://hrittik16.github.io/Saas-Demo/) 
->2. [**TicTacToe**](https://github.com/Hrittik16/TicTacToe)<br>
-A Tic Tac Toe game written in c++ by following object oriented paradigm
+> 1. [**Carbon Emission Analysis**](https://github.com/Hrittik16/Carbon-Emission-Analysis)<br>
+This is a data analysis project built entirely using python and matplotlib library
+>2. [**Safe Web**](https://github.com/Hrittik16/SafeWeb)<br>
+A chrome extension to make the internet safer for kids
 > 3. [**Guess Me**](https://github.com/Hrittik16/Guess-Me)<br>
 Guess Me is a guessing game written in c++ which uses binary search to guess the number
 
@@ -40,9 +39,8 @@ Guess Me is a guessing game written in c++ which uses binary search to guess the
 
 ### Awards & Certificates
 
-> 1. [**Google Codejam Qualifications Round 2019**](https://drive.google.com/file/d/10b4xKj7g6gCHUQ3SQPhD0iG4I3AEfewC/view)<br>
-World Rank - 7561/35509<br>
-India Rank - 969/12532
+> 1. [**NIT Patna Hackathon**](https://drive.google.com/file/d/1vncNxRg0N1TzpE-rNnVC5qcNCbFCnd6g/view)<br>
+29th Position out of 100+ teams
 > 2. [**Google Kickstart 2018 Round H**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050e00)<br>
 World Rank - 1713
 > 3. [**Codechef Snackdown 2019 round 1B**](https://www.codechef.com/certificates/public/cd6414a)<br>
