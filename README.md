@@ -52,5 +52,6 @@ Successfully completed problem solving assessment
 
 > 1. **Programming in C and C++**
 > 2. **Introduction to Programming in Python**
-> 3. **Software Testing**
-> 4. **Web Programming in HTML, CSS and Javascript**
+> 3. **Introduction to Algorithms**
+> 4. **Software Testing**
+> 5. **Web Programming in HTML, CSS and Javascript**
