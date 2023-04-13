@@ -1,27 +1,15 @@
 ### Hi, I'm Hrittik :boy:
 
-## I love video games, scripting and algorithms
-- :computer: I'm currently learning Javascript and Python
+## I love Generative ai, Reinforcement Learning and Game Dev
+- :computer: I'm currently exploring large language models
 - :calendar: I love to work on side projects and participate in hackathons and coding competitions
-- :zap: Fun Fact: I can solve a 3X3 Rubik's cube within 1 minute
+- :zap: Fun Fact: I play chess in my free time
 
 ### Connect with me:
 
 [<img align="left" alt="Hrittik16 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Hrittik16)
-[<img align="left" alt="Hrittik16 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nikaru_hakamura)
-[<img align="left" alt="Hrittik16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nikaru16/)
-
-<br>
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/Hrittik16/Hrittik16.github.io)
+[<img align="left" alt="Hrittik16 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/optimisticDas)
+[<img align="left" alt="Hrittik16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/loopintegral/)
 
 <br>
 <br>
@@ -52,6 +40,6 @@ Successfully completed problem solving assessment
 
 > 1. **Programming in C and C++**
 > 2. **Introduction to Programming in Python**
-> 3. **Introduction to Algorithms**
+> 3. **Introduction to Data Structures and Algorithms**
 > 4. **Software Testing**
-> 5. **Web Programming in HTML, CSS and Javascript**
+> 5. **Machine Learning**
