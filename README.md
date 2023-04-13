@@ -14,16 +14,6 @@
 <br>
 <br>
 
-### Projects
-
-> 1. [**Carbon Emission Analysis**](https://github.com/Hrittik16/Carbon-Emission-Analysis)<br>
-This is a data analysis project built entirely using python and matplotlib library
->2. [**Safe Web**](https://github.com/Hrittik16/SafeWeb)<br>
-A chrome extension to make the internet safer for kids
-> 3. [**Guess Me**](https://github.com/Hrittik16/Guess-Me)<br>
-Guess Me is a guessing game written in c++ which uses binary search to guess the number
-
-<br>
 
 ### Awards & Certificates
 
