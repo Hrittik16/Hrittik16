@@ -17,7 +17,7 @@
 
 ### Awards & Certificates
 
-> 1. [**NIT Patna Hackathon**](https://drive.google.com/file/d/1vncNxRg0N1TzpE-rNnVC5qcNCbFCnd6g/view)<br>
+> 1. [**NIT Patna Hackathon 2021**](https://drive.google.com/file/d/1vncNxRg0N1TzpE-rNnVC5qcNCbFCnd6g/view)<br>
 29th Position out of 100+ teams
 > 2. [**Google Kickstart 2018 Round H**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000050e00)<br>
 World Rank - 1713
